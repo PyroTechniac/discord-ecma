@@ -2,6 +2,13 @@
     "name": "discord-ecma",
     "author": "Gryffon Bellish <owenbellish@gmail.com>",
     "main": "src/exports",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/PyroTechniac/discord-ecma.git"
+    },
+    "bugs": {
+        "url": "https://github.com/PyroTechniac/discord-ecma/issues"
+    },
     "dependencies": {
         "discord.js": "discordjs/discord.js"
     },
