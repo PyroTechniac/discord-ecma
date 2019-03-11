@@ -17,5 +17,6 @@
         "eslint-config-pyro": "pyrotechniac/pyro-lint"
     },
     "optionalDependencies": {},
-    "peerDependencies": {}
+    "peerDependencies": {},
+    "version": "0.0.1"
 }
