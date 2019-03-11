@@ -1,0 +1,14 @@
+{
+    "name": "discord-ecma",
+    "author": "Gryffon Bellish <owenbellish@gmail.com>",
+    "main": "src/exports",
+    "dependencies": {
+        "discord.js": "discordjs/discord.js"
+    },
+    "devDependencies": {
+        "eslint": "^5.15.1",
+        "eslint-config-pyro": "pyrotechniac/pyro-lint"
+    },
+    "optionalDependencies": {},
+    "peerDependencies": {}
+}

@@ -1,0 +1,6 @@
+{
+    "extends": "pyro",
+    "parserOptions": {
+        "sourceType": "module"
+    }
+}
